@@ -78,6 +78,3 @@ rtl/   design files
 tb/    one self-checking testbench per module
 ```
 
-## Team
-
-Group 3, MNNIT Allahabad (VLSI RTL project) - add team member names here.
